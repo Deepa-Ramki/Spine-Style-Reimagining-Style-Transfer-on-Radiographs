@@ -34,11 +34,13 @@ Intraoperative radiographs are crucial for `image-guided robotic surgery` of the
 ## <div align="center">Methodology</div>
 
 <p align="center">
-  <img src=Figure_commonmark/Screenshot%202024-06-04%20161929.png>
+  <img src= Images/Block Diagram-Schematics.png>
+  
 </p>
 <div align = "center">
   
-  :small_orange_diamond: Fig 4:Block diagram of proposed work: Graphical user interface (GUI) using Vertebrae  3D segmentation
+  :small_orange_diamond: Fig:Block diagram of proposed work
+  
 </div>
 
 ## <div align="center">Pre-requisites</div>
