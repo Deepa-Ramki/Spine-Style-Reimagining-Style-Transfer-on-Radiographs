@@ -33,18 +33,24 @@ Digitally Reconstructed Radiographs (DRRs) are simulated from CT volumes using P
 
 - **Rotational Simulation**: DRRs are generated in a 360° circular orbit around the CT isocenter, producing views corresponding to anteroposterior (AP) and lateral (LP) perspectives.
 - **Selection Process**: Two DRRs per X-ray view are selected based on rotational angles to match the orientation of clinical X-ray images.
+  
 <div align="center">
 <div style="display: flex; flex-direction: row;">
-    <img class="img"src="Images/DRR_AP.jpg" >
+    <img class="img"src="Images/DRR_AP.jpg" width="300">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img class="img"src="Images/DRR_LP.png"> 
+    <img class="img"src="Images/DRR_LP.png" width="300"> 
 </div>
 </div>
  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   
-   :small_orange_diamond: Fig 1: DRR for Anterior-Posterior of Spine 
+   :small_orange_diamond: Fig 1: DRR of Anterior-Posterior (AP) of Spine 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   :small_orange_diamond: Fig 2: DRR for Lateral-Posterior of Spine</p>
+   :small_orange_diamond: Fig 2: DRR of Lateral-Posterior (LP) of Spine</p>
+<br/>
+
+
+
+
+
 
 </details>
 <details>
