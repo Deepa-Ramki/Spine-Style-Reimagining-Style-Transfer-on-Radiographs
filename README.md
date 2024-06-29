@@ -36,8 +36,8 @@ Digitally Reconstructed Radiographs (DRRs) are simulated from CT volumes using P
   
 <div align="center">
 <div style="display: flex; flex-direction: row;">
-    <img class="img"src="Images/DRR_AP.jpg" width="300">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img class="img" src="Images/DRR_AP.jpg" width="300" height="auto" style="max-height: 300px;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img class="img"src="Images/DRR_LP.png" width="300"> 
 </div>
 </div>
