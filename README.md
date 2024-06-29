@@ -36,15 +36,16 @@ Digitally Reconstructed Radiographs (DRRs) are simulated from CT volumes using P
   
 <div align="center">
 <div style="display: flex; flex-direction: row;">
-    <img class="img" src="Images/DRR_AP.jpg" width="300" height="auto" style="max-height: 300px;">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img class="img"src="Images/DRR_LP.png" width="300"> 
+    <img class="img"src="Images/DRR_AP.png">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img class="img"src="Images/DRR_LP.png"> 
 </div>
 </div>
+
  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   :small_orange_diamond: Fig 1: DRR of Anterior-Posterior (AP) of Spine 
+   :small_orange_diamond: Fig 1: DRR of Anterior-Posterior of Spine 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   :small_orange_diamond: Fig 2: DRR of Lateral-Posterior (LP) of Spine</p>
+   :small_orange_diamond: Fig 2: DRR of Lateral-Posterior of Spine</p>
 <br/>
 
 
