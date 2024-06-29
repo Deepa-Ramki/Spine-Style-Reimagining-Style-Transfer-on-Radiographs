@@ -42,7 +42,7 @@ Digitally Reconstructed Radiographs (DRRs) are simulated from CT volumes using P
 </div>
  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    
-   :small_orange_diamond:     Fig 1: DRR for Anterior-Posterior of Spine 
+   :small_orange_diamond: Fig 1: DRR for Anterior-Posterior of Spine 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    :small_orange_diamond: Fig 2: DRR for Lateral-Posterior of Spine</p>
 
@@ -104,7 +104,7 @@ Transferred Ouput (right) of AP Spine image
 
 <div align = "center">
   
-  :small_orange_diamond: Figure 3 : Style Transfer results - Content image (left), Style Image (middle) and Style
+  :small_orange_diamond: Figure 4 : Style Transfer results - Content image (left), Style Image (middle) and Style
 Transferred Ouput (right) of LP Spine image
   
 </div>
@@ -122,7 +122,7 @@ Transferred Ouput (right) of LP Spine image
 
 <div align = "center">
   
-  :small_orange_diamond: Figure : Block diagram of proposed work
+  :small_orange_diamond: Figure 5: Block diagram of proposed work
   
 </div>
 
