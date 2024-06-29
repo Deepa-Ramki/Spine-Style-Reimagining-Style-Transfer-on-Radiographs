@@ -2,7 +2,7 @@
 
 <p  align="center">  
   
-Intraoperative radiographs are crucial for `image-guided robotic surgery` of the spine, facilitating essential tasks such as `2D/3D registration` and `3D reconstruction`. Ensuring stylistic consistency between input radiographs and digitally reconstructed radiographs (DRRs) is pivotal for training deep learning models used in these tasks. While `neural style transfer` techniques have seen extensive application in artistic imagery, their adoption in medical imaging, particularly spinal radiographs, remains limited. This work introduces SpineStyle, an advanced end-to-end pipeline that employs a modified `VGG-19` architecture to perform style transfer from DRRs to input radiographs. Unlike traditional `generative adversarial network` (GAN) approaches that demand large datasets, SpineStyle achieves superior results using single input and DRR images.
+Intraoperative radiographs are crucial for `image-guided robotic surgery` of the spine, facilitating essential tasks such as `2D/3D registration` and `3D reconstruction`. Ensuring stylistic consistency between input radiographs and digitally reconstructed radiographs (DRRs) is pivotal for training deep learning models used in these tasks. While `neural style transfer` techniques have seen extensive application in artistic imagery, their adoption in medical imaging, particularly spinal radiographs, remains limited. This work introduces `SpineStyle`, an advanced end-to-end pipeline that employs a modified `VGG-19` architecture to perform style transfer from DRRs to input radiographs. Unlike traditional `generative adversarial network` (GAN) approaches that demand large datasets, SpineStyle achieves superior results using single input and DRR images.
 </p>
 
 <h3 > <i>Index Terms</i> </h3> 
@@ -21,7 +21,7 @@ Intraoperative radiographs are crucial for `image-guided robotic surgery` of the
 - **Modified VGG-19 Architecture**: Enhances style transfer accuracy and anatomical integrity.
 - **📊 Novel Evaluation Metrics**:
   - **`Style Transfer Extent (STE)`**: Quantifies the degree of style transfer from DRR to input radiograph.
-  - **`Anatomical Content Preservation (ACP)`**: Evaluates the retention of anatomical details post style transfer.
+  - **`Semantic Content Loss Measure (SCLM)`**: Determines the retention of anatomical details post style transfer.
 - **Superior Performance 🚀**: Outperforms standard neural style transfer methods in rigorous comparative studies.
   
 ## <div align="center">Getting Started</div>
@@ -110,7 +110,7 @@ Transferred Ouput (right) of LP Spine image
 </div>
  
 - **Comparative Histogram Study**: Evaluates fidelity of intensity mappings between X-ray images, DRRs, and style transferred outputs.
-- **Semantic Content Similarity Measure (SCSM)**: Introduces metric for assessing content preservation via feature map comparisons across VGG-19 convolutional blocks.
+- **Semantic Content Loss Measure (SCLM)**: Introduces metric for assessing content preservation via feature map comparisons across VGG-19 convolutional blocks.
 </details>
 
 
